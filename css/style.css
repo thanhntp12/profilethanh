@@ -54,7 +54,7 @@ a:focus {
 }
 
 .btn:hover {
-    color: #EF233C;
+    color:  #80c7f5;
     background: transparent;
     box-shadow: inset 0 0 0 0  #80c7f5;
     border-color:  #80c7f5;
